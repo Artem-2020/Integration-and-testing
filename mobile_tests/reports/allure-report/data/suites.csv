@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","19852","TC-01. Переход в Settings через navigation drawer","tests","2026-05-25","passed","2026-05-25","TestNewPipeNavigation","test_navigation","",""
+"","19056","TC-02. Переход в About & FAQ через navigation drawer","tests","2026-05-25","passed","2026-05-25","TestNewPipeNavigation","test_navigation","",""
